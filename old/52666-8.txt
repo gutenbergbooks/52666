@@ -1,4 +1,38 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 52666 ***
+The Project Gutenberg EBook of Glimpses of Ocean Life, by John Harper
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Glimpses of Ocean Life
+       Rock-Pools and the Lessons they Teach
+
+Author: John Harper
+
+Release Date: July 28, 2016 [EBook #52666]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK GLIMPSES OF OCEAN LIFE ***
+
+
+
+
+Produced by Chris Whitehead, K.D. Thornton and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
 
   'Natural History is the appointed handmaiden of Religion, enabling
   us to feel and in some humble proportion to appreciate how closely
@@ -6,7 +40,7 @@
   been provided for,--how admirably they are severally adapted to their
   respective stations and employments, and how wonderfully every part
   of their economy is made subservient to the general good. This is the
-  true spirit in which the aquarÃ¯st ought to work, and this is the end
+  true spirit in which the aquarïst ought to work, and this is the end
   and object of his science.'--_Rhymer Jones._
 
 
@@ -86,7 +120,7 @@
   microscope--Modern martyrs of science--Infusoria--Use
   of Infusoria--Distinction between plants and
   animals--_Vorticella_--_Rotatoria_--Wheel
-  animalcules--Mooring Thread of VorticellÃ¦--A
+  animalcules--Mooring Thread of Vorticellæ--A
   compound species of Vorticella described--_Zoothamnium
   spirale_ of Mr. Gosse--Nature's scavengers,                      27
 
@@ -97,9 +131,9 @@
 
   Animal-flowers--_A. mesembryanthemum_--'Granny,'
   Sir J. Dalyell's celebrated anemone--Original anecdote--_A.
-  troglodytes_--How to capture actiniÃ¦--A roving 'mess.'--An
-  intelligent anemone--Diet of the actiniÃ¦--Voracity of these
-  zoophytes--Defence of certain species--ActiniÃ¦ eating
+  troglodytes_--How to capture actiniæ--A roving 'mess.'--An
+  intelligent anemone--Diet of the actiniæ--Voracity of these
+  zoophytes--Defence of certain species--Actiniæ eating
   crabs--Their reproductive powers--Size of the 'crass.'--The
   Plumose anemone--Its powers of contraction,                      45
 
@@ -114,7 +148,7 @@
   awa''--A crustaceous performer--The Fiddler crab--A little
   prodigal--Singular conduct of the Shore crab--The minute
   Porcelain crab--_Maia squinado_--_Hyas
-  araneus_--_Maia_ and _C. mÃ¦nas_--Anecdote--The
+  araneus_--_Maia_ and _C. mænas_--Anecdote--The
   common Pea crab--Pinna and Pinnotheres--The Cray
   fish--Masticatory organs of crabs--Fishing for
   crabs--Crab fishers,                                             63
@@ -193,7 +227,7 @@
   mussel--Muscular action of its foot--Threads of the
   beard--The bridge at Bideford--Anecdote--The
   Mussel tenacious of life--The beard not poisonous--M.
-  Quatrefage--Mussel beds of Esnandes--BranchiÃ¦ of the
+  Quatrefage--Mussel beds of Esnandes--Branchiæ of the
   Mussel--Food of this bivalve,                                   163
 
 
@@ -208,12 +242,12 @@
 
   CHAPTER XIII.
 
-  ACALEPHÃ† (MEDUSÃ†, OR JELLY-FISH).
+  ACALEPHÆ (MEDUSÆ, OR JELLY-FISH).
 
   Introduction--Jelly-fish--Whales'
   food--Lieutenant Maury--Appearance of the Greenland
   Seas--Sir Walter Scott--The girdle of Venus--The
-  BerÃ¶e--_Pulmonigrade acalephÃ¦_--Portuguese
+  Beröe--_Pulmonigrade acalephæ_--Portuguese
   man-of-war--_Hydra-tuba_--Alternation of
   generations--Dr. Reid--_Modera-formosa_--_Cyanea
   capillata_--Conclusion,                                         201
@@ -225,7 +259,7 @@
 
   Anecdote--Young Dorides--Doris spawn--_Nudibranchiate
   gasteropoda_--Dr. Darwin--Mr. Gosse--A black
-  Doris--_BÃªches de mer_--A Chinese dinner--Bird's
+  Doris--_Bêches de mer_--A Chinese dinner--Bird's
   nest soup, and Sea-slug stew,                                   221
 
 
@@ -266,9 +300,9 @@
   STAR-FISHES, ETC.
 
   The Coral polypes--The Lily-stars--St. Cuthbert's
-  beads--_Pentacrinus europÃ¦us_--Rosy feather star
-  _OphiuridÃ¦_--Brittle-stars--_Ophiocomo-rosula_--British
-  asteridÃ¦--_Uraster rubens_--Habits of this species--Submarine
+  beads--_Pentacrinus europæus_--Rosy feather star
+  _Ophiuridæ_--Brittle-stars--_Ophiocomo-rosula_--British
+  asteridæ--_Uraster rubens_--Habits of this species--Submarine
   Dandos--Sir John Dalyell--Professor Jones--Star-fish feeding
   on the oyster--Bird's foot Sea-star--_Luidia
   fragillissima_--Cushion-stars--Professor Forbes,                269
@@ -281,8 +315,8 @@
   Sea Urchins in the tank--Growth of the Echinus--Its
   hedgehog-like spines--Suckers and pores--Ambulacral
   tubes--Professor Agassiz--Movements of the
-  Echinus--_PedicellariÃ¦_--Masticatory
-  apparatus--Common Egg Urchin--_Echinus sphÃ¦ra_--How
+  Echinus--_Pedicellariæ_--Masticatory
+  apparatus--Common Egg Urchin--_Echinus sphæra_--How
   to remove the spines--'Do you boil your sea eggs?'--The
   Green-pea Urchin--The Silky-spined Urchin--The Rosy-heart
   Urchin,                                                         287
@@ -294,7 +328,7 @@
 
   Its unattractive appearance out of water--Trepang--Several
   varieties eaten by the Chinese--Common Sea Cucumber--Habits
-  of the HolothuriÃ¦--Their self-mutilation and renewal of
+  of the Holothuriæ--Their self-mutilation and renewal of
   lost parts,                                                     301
 
 
@@ -310,11 +344,11 @@
 
   CHAPTER XXII.
 
-  SERPULÃ† AND SABELLÃ†.
+  SERPULÆ AND SABELLÆ.
 
-  Tubes of the _SerpulÃ¦_--Dr. Darwin--The harbour
+  Tubes of the _Serpulæ_--Dr. Darwin--The harbour
   of Pernambuco--Its wonderful structure--Reproduction of
-  the _SerpulÃ¦_--_SabellÃ¦_--Their sandy
+  the _Serpulæ_--_Sabellæ_--Their sandy
   tubes, &c.,                                                     313
 
 
@@ -351,16 +385,16 @@
 
   CHAPTER XXV.
 
-  ON THE FORMATION OF MARINE AQUARIÃ†, ETC.
+  ON THE FORMATION OF MARINE AQUARIÆ, ETC.
 
   Mimic oceans--Practical hints on marine
-  aquariÃ¦--Various tanks described--The 'gravity
-  bubble'--Evaporated sea-water--AquariÃ¦ in
+  aquariæ--Various tanks described--The 'gravity
+  bubble'--Evaporated sea-water--Aquariæ in
   France--Sea-water a contraband article across the
   Channel--An aquarium on a fine summer's day--The
   Lettuce Ulva--Author's tank--'Excavations on a
   rocky shore'--Tank 'interiors'--Various centre
-  pieces--New siphon--AquariÃ¦ difficult to keep in
+  pieces--New siphon--Aquariæ difficult to keep in
   hot weather--How to remove the opacity of the
   tank--New scheme proposed--Conclusion,                          353
 
@@ -374,7 +408,7 @@
 
   FRONTISPIECE,                                         1
 
-  COMPOUND VORTICELLÃ†,                                  2
+  COMPOUND VORTICELLÆ,                                  2
 
   "GRANNY," Sir John Dalyell's celebrated Anemone,      3
 
@@ -408,7 +442,7 @@
 
   COMMON MUSSEL,--Shell closed,                        18
 
-  THE BERÃ–E,                                           19
+  THE BERÖE,                                           19
 
   FAN AMPHITRITE,                                      20
 
@@ -444,7 +478,7 @@
 
   THE SEA-CUCUMBER,                                    36
 
-  SERPULÃ† attached to piece of rock,                   37
+  SERPULÆ attached to piece of rock,                   37
 
   THE SOLEN, or RAZOR FISH,                            38
 
@@ -609,7 +643,7 @@ Take, as an example, one of the monsters of the deep, the whale; and
 we shall find, according to several learned writers, that this animal
 carries on its back and in its tissues a mass of creatures so minute,
 that their number equals that of the entire population of the globe. A
-single frond of marine algÃ¦, in size
+single frond of marine algæ, in size
 
     'No bigger than an agate stone
      On the forefinger of an alderman,'
@@ -711,7 +745,7 @@ say this idea is wholly without foundation, if the pursuit is properly
 conducted; and that, on the contrary, it is materially strengthened by
 the use of properly adapted glasses, even of high powers; and in proof
 I state, that twenty years ago I used spectacles, but the continued
-and daily examination of these minutiÃ¦ (_foraminifera_) has so greatly
+and daily examination of these minutiæ (_foraminifera_) has so greatly
 increased the power of vision, that I now read the smallest type
 without difficulty and without aid. The great point to be attended to
 is not to use a power that in the least exceeds the necessity; not
@@ -739,7 +773,7 @@ In spite of the foregoing assertions, I feel it my duty to caution the
 student against excess of labour. Let him ride his hobby cautiously,
 instead of seeking to enrol his name among the martyrs of science,
 of whom the noble Geoffry St. Hilaire, M. Sauvigny, and M. Strauss
-DÃ¼rckheim, are noted modern examples. Each member of this celebrated
+Dürckheim, are noted modern examples. Each member of this celebrated
 trio spent the latter part of his existence in physical repose, having
 become totally blind from intense study over the microscope. But
 setting aside the evils of excess, we must bear witness to the intense
@@ -755,7 +789,7 @@ delight which this pursuit affords when followed with moderation.
 As my aim is merely to give the reader a taste of the subject, and
 whet his appetite for its more extensive pursuit at other sources, I
 shall confine my remarks to a few of those creatures which are readily
-to be found in any well-stocked aquarium. The number of animalculÃ¦
+to be found in any well-stocked aquarium. The number of animalculæ
 and microscopic zoospores of plants, invisible to the naked eye,
 with which such a receptacle is filled, even when the water is clear
 as crystal, is truly marvellous. These animals mostly belong to the
@@ -770,7 +804,7 @@ upon the decaying substances in solution, while they themselves become
 in their turn the food of the larger animals. Indeed, they constitute
 almost the sole nutriment of many strong, muscular shell-fish, as
 pholas, mussel, cockle, &c.; and doubtless help to maintain the life
-of others, such as actiniÃ¦, and even crabs, which, as is well known,
+of others, such as actiniæ, and even crabs, which, as is well known,
 live and grow without any other apparent means of sustenance. Thus
 the presence of Infusoria in the tank may be considered a sign of its
 healthy condition, although their increase to such an extent as to give
@@ -811,7 +845,7 @@ between them with any degree of certainty. The chief distinction
 appears to lie in the nature of their food. Those forms which are truly
 vegetable can live upon purely inorganic matter, while the animals
 require that which is organized. The plants also live entirely by the
-absorption of fluid through the exterior, while the animalculÃ¦ are
+absorption of fluid through the exterior, while the animalculæ are
 capable of taking in solid particles into the interior of the body.
 Their mode of multiplication, and the metamorphoses they undergo, are
 much alike in both classes, being, during one stage of their existence,
@@ -828,10 +862,10 @@ the microscope, appears filled with a dense cloud of dancing midges.
 Another (_Kerona silurus_) may be said to resemble a coffee-bean, with
 a host of _cilia_, or short bristles, on the flat side. These are used
 when swimming or running. But perhaps the most singular and beautiful
-of all the infusorial animalcules are the _VorticellÃ¦_, which resemble
+of all the infusorial animalcules are the _Vorticellæ_, which resemble
 minute cups or flower-bells, mounted upon slender retractile threadlike
 stalks, by which they are moored to the surface of the weeds and
-stones. They are called VorticellÃ¦ on account of the little vortices
+stones. They are called Vorticellæ on account of the little vortices
 or whirlpools which they continually create in the water, by means of
 a fringe of very minute cilia placed round the brim of their cups.
 These cilia are so minute as to require a very high microscopic power
@@ -845,7 +879,7 @@ The action is repeated by each cilium in succession, with such rapidity
 and regularity that, when viewed from above, the fringe looks like the
 rim of a wheel in rapid revolution. A similar appearance, produced
 by the same cause, in another class of animalcula, of much more
-complex structure than the VorticellÃ¦, has procured for it the name of
+complex structure than the Vorticellæ, has procured for it the name of
 _Rotifera_, or wheel-bearers. The result of this combined movement of
 the cilia is, that a constant stream of water is drawn in towards the
 centre of the cup, and thrown off over the sides, when, having reached
@@ -886,7 +920,7 @@ taking place is that the cilia cause the animal to swim through the
 water, trailing its thread behind it, and the contraction of the latter
 merely causes it to be drawn up to the head.
 
-There are various species of VorticellÃ¦. That just described is the
+There are various species of Vorticellæ. That just described is the
 simplest, consisting merely of a hemispherical ciliated cup, attached
 to a single thread. It is barely visible to the naked eye. But there
 is a compound species which I have this year found to be extremely
@@ -952,7 +986,7 @@ enchanted fruit hanging on the tree; B shows it as it swims about.
 [Illustration: Fig. 1. and Fig. 2.]
 
 Although not exactly fruit, it is, no doubt, the means by which
-the VorticellÃ¦ are propagated, for it is known that many fixed
+the Vorticellæ are propagated, for it is known that many fixed
 zoophytes, and even some plants, produce free swimming germs or spores,
 which afterwards become fixed, and grow up into forms like those
 which produced them. In some of the branching zoophytes (_Coryne_,
@@ -1064,7 +1098,7 @@ daisy newly plucked from the mountain side, or it may be a blooming
 marigold or _Anemone_ from some rich parterre--instead of being, in
 reality, a living, moving, animal-flower.
 
-One great advantage which the _ActiniÃ¦_ possess over certain other
+One great advantage which the _Actiniæ_ possess over certain other
 inhabitants of the sea-shore, at least to the eye of the naturalist, is
 the facility with which specimens may be procured for observation and
 study. Scarcely any rock-pool near low water mark but will be found to
@@ -1076,7 +1110,7 @@ totally uncovered by the sea, he will frequently find specimens of the
 smooth anemone, contracted and hanging listlessly from the surface of
 the stone, like masses of green, marone, or crimson jelly.
 
-The ActiniÃ¦, and especially examples of the above mentioned species,
+The Actiniæ, and especially examples of the above mentioned species,
 are extremely hardy and tenacious of life, as the following interesting
 narrative will prove.
 
@@ -1137,7 +1171,7 @@ occupants of an aquarium, but dwells alone in a small tank, the water
 of which is changed regularly once a week. This being the plan adopted
 by the original owner of Granny, is the one still followed by Dr.
 M'Bain, whose anxiety is too great to allow him to pursue any other
-course, for fear of accident thereby occurring to his protegÃ©e.
+course, for fear of accident thereby occurring to his protegée.
 
 A portrait of Granny, drawn from nature, will be found on Plate 2.
 
@@ -1198,7 +1232,7 @@ he is likely to succeed in getting his prize perfect and entire; if
 not, let me beg of him not to persevere, but immediately try some other
 place, and hope for better fortune.
 
-Although apparently sedentary creatures, the ActiniÃ¦ often prove
+Although apparently sedentary creatures, the Actiniæ often prove
 themselves to be capable of moving about at will over any portion of
 their subaqueous domain. Having selected a particular spot, they will
 ofttimes remain stationary there many consecutive months. A smooth
@@ -1221,7 +1255,7 @@ considered for a while one of the 'lions' of the tank, and often became
 an object of admiration not only to my juvenile visitors, but also to
 many 'children of larger growth.'
 
-There is a curious fact in connection with the ActiniÃ¦ which deserves
+There is a curious fact in connection with the Actiniæ which deserves
 to be chronicled here. I allude to the apparent instinct which they
 possess. This power I have seen exercised at various times. The
 following is a somewhat remarkable instance of the peculiarity in
@@ -1229,7 +1263,7 @@ question.
 
 In a small glass vase was deposited a choice _A. dianthus_, about an
 inch in diameter. The water in the vessel was at least five inches
-in depth. Having several specimens of the _AplysiÃ¦_, I placed one in
+in depth. Having several specimens of the _Aplysiæ_, I placed one in
 companionship with the anemone, and was often amused to observe the
 former floating head downward upon the surface of the water. After a
 while it took up a position at the base of the vase, and remained there
@@ -1263,10 +1297,10 @@ atmosphere.
 After this second instance of intelligence (?) I speedily transferred
 my pet to a more healthy situation.
 
-Having procured a small colony of ActiniÃ¦, you need be under no anxiety
+Having procured a small colony of Actiniæ, you need be under no anxiety
 about their diet, for they will exist for years without any further
 subsistence than is derived from the fluid in which they live. Yet
-strange as the statement will appear to many persons, the ActiniÃ¦
+strange as the statement will appear to many persons, the Actiniæ
 are generally branded with the character of being extremely greedy
 and voracious. 'Nothing,' says Professor Jones, 'can escape their
 deadly touch. Every animated thing that comes in contact with them is
@@ -1279,7 +1313,7 @@ food that its most capacious stomach is capable of receiving. Nothing
 is refused, provided it be of animal substance. All the varieties of
 the smaller fishes, the fiercest of the crustacea, the most active of
 the annelidans, and the soft tenants of shells among the mollusca, all
-fall a prey to the ActiniÃ¦.'
+fall a prey to the Actiniæ.'
 
 This is a sweeping statement, and, although corroborated by Sir J.
 Dalyell and others, is one that requires to be received with a certain
@@ -1290,7 +1324,7 @@ coriacea_ or _A. mesembryanthemum_.
 
 As may readily be conceived, the writer could not keep monster
 specimens, such as are often found at the sea-shore; but surely if
-the statement were correct that, _as a general rule_, the actiniÃ¦
+the statement were correct that, _as a general rule_, the actiniæ
 eat living crabs, the phenomenon would occasionally occur with
 moderate-sized specimens, when kept in companionship with a mixed
 assembly of crustaceans. Yet in no single instance have I witnessed a
@@ -1304,13 +1338,13 @@ through the delicate rays, like a sky terrier prancing over a bed of
 tulips.
 
 Thus much I have felt myself called upon to say in defence of certain
-species of ActiniÃ¦; but with regard to _A. crassicornis_, I must
+species of Actiniæ; but with regard to _A. crassicornis_, I must
 candidly own the creature is greedy and voracious to an extreme degree.
 
-Like many other writers, I have seen scores of this species of ActiniÃ¦
+Like many other writers, I have seen scores of this species of Actiniæ
 that contained the remains of crabs of large dimensions, but at one
 time considered that the latter were dead specimens, which had been
-drifted by the tide within reach of the ActiniÃ¦, and afterwards
+drifted by the tide within reach of the Actiniæ, and afterwards
 consumed. That such, indeed, was the correct explanation in many
 instances I can scarcely doubt, from the disproportionate bigness of
 the crabs as compared with the anemones, but feel quite confident, that
@@ -1326,7 +1360,7 @@ crab had been lost to view for the space of three minutes only, I drew
 it out of the Actinia, but although not quite dead, it evidently did
 not seem likely to survive for any length of time.
 
-In collecting ActiniÃ¦ great care should be taken in detaching them from
+In collecting Actiniæ great care should be taken in detaching them from
 their position. If possible, it is far the better plan not to disturb
 them, but to transport them to the aquarium on the piece of rock or
 other substance to which they may happen to be affixed. This can in
@@ -1343,7 +1377,7 @@ In making this remark, I allude solely to the disc of the animal, an
 injury to which I have never seen repaired. On the other hand, it is
 well known that certain other parts may be destroyed with impunity. If
 the tentacula, for instance, be cut away, so great are the reproductive
-powers of the ActiniÃ¦, that in a comparatively short space of time the
+powers of the Actiniæ, that in a comparatively short space of time the
 mutilated members will begin to bud anew.
 
 'If cut transversely through the middle, the lower portion of the
@@ -1360,7 +1394,7 @@ in possession of a large brood of infant zoophytes, which have been
 ejected from the mouth of the parent.
 
 There is often an unpleasant-looking film surrounding the body of
-the ActiniÃ¦. This 'film' is the skin of the animal, and is cast off
+the Actiniæ. This 'film' is the skin of the animal, and is cast off
 very frequently. It should be brushed away by aid of a camel-hair
 pencil. Should any rejected food be attached to the lips, it may be
 removed by the same means. When in its native haunts this process is
@@ -1401,7 +1435,7 @@ reader will be able to make the acquaintance of this anemone without
 any trouble whatever.
 
 _A. dianthus_ (Plumose anemone), is one of the most delicately
-beautiful of all the ActiniÃ¦; it can, moreover, be very readily
+beautiful of all the Actiniæ; it can, moreover, be very readily
 identified in its native haunts. Its colour is milky-white,--body,
 base, and tentacula, all present the same chaste hue. Specimens,
 however, are sometimes found lemon-coloured, and occasionally of a deep
@@ -1421,7 +1455,7 @@ indeed, so extraordinary is the peculiarity to which I allude, that a
 novice would have great difficulty in believing that the object before
 him was possessed of expansive powers at all, whereas, in point of
 fact, it is even more highly gifted in this respect than any other
-species of ActiniÃ¦.
+species of Actiniæ.
 
 
 
@@ -1472,7 +1506,7 @@ the marine animal kingdom, and I would strongly advise those of my
 readers who may have opportunities of being at the sea-side to procure
 a few youthful specimens. Its habits, according to my experience, are
 quite different from those of its relative, the Common Shore-Crab
-(_Carcinus_ _mÃ¦nas_), or even the Velvet Swimming-Crab (_Portunus
+(_Carcinus_ _mænas_), or even the Velvet Swimming-Crab (_Portunus
 puber_). Unlike these, it does not show any signs of a vicious temper
 upon being handled, nor does it scamper away in hot haste at the
 approach of a stranger. Its nature, strange as the statement may appear
@@ -1529,7 +1563,7 @@ on one occasion, when I was, from certain circumstances, compelled to
 place a specimen of each in unhappy companionship. Here is a brief
 account of how they behaved to each other: The poor little lamb (_C.
 pagurus_) was kept in a constant state of alarm by the attacks of her
-fellow-prisoner (_C. mÃ¦nas_) from the first moment that I dropped her
+fellow-prisoner (_C. mænas_) from the first moment that I dropped her
 in the tank. If I gave her any food, and did not watch hard by until it
 was consumed, the whole meal would to a certainty be snatched away. Not
 content with his booty, the crabbie rascal of the shore would inflict a
@@ -1677,7 +1711,7 @@ drew himself up, and sat upon the edge of the vessel. In this position
 he would rest as seemingly content as a bird on a bush, or a schoolboy
 on a gate.
 
-My curiosity satisfied, the _C. mÃ¦nas_ was again placed in the vase,
+My curiosity satisfied, the _C. mænas_ was again placed in the vase,
 and every means of escape removed.
 
 Here let me mention that I still had a Fiddler-Crab in my large tank,
@@ -1707,12 +1741,12 @@ thoughtlessly placed this useful article against a chair. A little pool
 of water immediately formed upon the carpet, which I had no sooner
 noticed, than I got up to remove the _parapluie_ to its proper place in
 the stand, but started back in surprise, for in the little pool stood
-the fugitive fiddler moistening his branchiÃ¦.
+the fugitive fiddler moistening his branchiæ.
 
 Taking up the little prodigal who had left my protection so lately,
 I soon deposited him in a vase of clear salt water. After a while,
 thinking it might conduce to the happiness of both parties, I placed
-him in companionship with his old friend, _Carcinus mÃ¦nas_. This,
+him in companionship with his old friend, _Carcinus mænas_. This,
 like many other philanthropic projects, proved a complete failure.
 Both creatures, once so harmless towards each other, seemed suddenly
 inspired by the demon of mischief. Combats, more or less severe,
@@ -1786,7 +1820,7 @@ and other beautiful weeds, all of which were in a healthy condition.
 After keeping him in a vase for a week, he managed, much against my
 wish, to strip himself of the greater part of these novel excrescences.
 
-Instead of minute algÃ¦, we read that these crabs are sometimes found
+Instead of minute algæ, we read that these crabs are sometimes found
 with oysters (_Ostrea edulis_) attached to their backs. Mr. W. Thompson
 mentions two instances where this occurs, with specimens of _H.
 araneus_, to be seen in Mr. Wyndman's cabinet. Speaking of these, he
@@ -1817,7 +1851,7 @@ and a profound style of doing everything, that always excites our
 irreverent laughter, but at the same time leaves an impression that,
 if justice were done, the animal ought to hold a higher position in
 the marine world than a scavenger and devourer of ocean garbage. If
-_Maia_ and _C. mÃ¦nas_ be both eating out of the same dish, in the shape
+_Maia_ and _C. mænas_ be both eating out of the same dish, in the shape
 of an open mussel, the former seems ever inclined to admonish his
 companion upon greediness and want of manners. The only seeming reason
 why _M. squinado_ does not really give such advice, is because of the
@@ -1928,7 +1962,7 @@ whisper, equally opposed to fact, at least in its principal details:--
 There is one singular feature in the Crustacea which it may prove
 interesting to dwell a little upon. I allude to their power of living
 apparently without food, or at least without any other sustenance
-than is afforded by the animalculÃ¦ contained in the water in which
+than is afforded by the animalculæ contained in the water in which
 they dwell. One accurate observer states that he kept a Cray-fish for
 a period of two years, during which time the only food the animal
 received was a few worms,--not more than fifty altogether. This
@@ -2160,14 +2194,14 @@ is not easy to conjecture. No doubt, besides the defence of their
 otherwise unprotected bodies, he has some other object of importance
 in view. Perhaps they may accelerate the decomposition of the shells
 they inhabit, and cause them sooner to give way to the action of the
-atmosphere; and as all exuviÃ¦ may be termed nuisances and deformities,
+atmosphere; and as all exuviæ may be termed nuisances and deformities,
 giving to these deserted mansions an appearance of renewed life and
 locomotion, removes them in some sort from the catalogue of blemishes.'
 
 Professor Jones, when treating of this class of animals, forcibly
 remarks that 'the wonderful adaptation of all the limbs to a residence
 in such a dwelling, cannot fail to strike the most curious observer.
-The _ChelÃ¦_, or large claws, differ remarkably in size, so that when
+The _Chelæ_, or large claws, differ remarkably in size, so that when
 the animal retires into its concealment, the smaller one may be
 entirely withdrawn, while the larger closes and guards the orifice. The
 two succeeding pairs of legs, unlike those of the Lobster, are of great
@@ -2210,7 +2244,7 @@ his shell, and crawls about in a most pitiable plight. He sometimes
 becomes convalescent again by being placed solus in some fresh water,
 or laid out in the air for a few moments. But he ought, on no account,
 when in a sickly condition, to be allowed to hide himself beneath any
-pieces of rock or shadow of the AlgÃ¦.
+pieces of rock or shadow of the Algæ.
 
 If he is out of sight, be sure not to let him be out of mind; for,
 should he die in the tank, and his body be allowed to remain for any
@@ -2446,7 +2480,7 @@ minutest particular that might occur within the building. The following
 was the plan I adopted. First was procured the exquisitely formed valve
 of a large _Pecten_, the interior of which was white and beautifully
 irridescent. This pretty cot, I said to myself, shall serve as a
-chamber for my _protÃ©gÃ©_. The shell being deposited behind a piece of
+chamber for my _protégé_. The shell being deposited behind a piece of
 rock, in such a position that its side rested against the surface of
 the glass, I was thus enabled to watch what was going on within. Some
 fronds of sea-weed were trained around so as to form a kind of drapery.
@@ -2469,7 +2503,7 @@ by her movements asked me, as plainly as any dumb animal could ask, to
 give her my assistance. After a few minutes spent in a 'brown study', I
 resolved to grant her petition, and immediately setting to work, drew
 from her--what? what do you suppose, reader? In truth neither more nor
-less than the body, head, and long antennÃ¦ of the 'martyr' Hermit-Crab!
+less than the body, head, and long antennæ of the 'martyr' Hermit-Crab!
 whose late sudden disappearance was now fully accounted for.
 
 There are ten British species of Lobster-Crab, but one only, _P.
@@ -2609,7 +2643,7 @@ are not found in our museums, is because they are not thrown off at
 once, but that the portions are detached in succession.' An ill-founded
 presumption this, the fact being that the inelastic integument is
 invariably (in all the Decapoda at least) thrown off entire, the eyes
-and long antennÃ¦ sheaths, the claws with the hair attached, even the
+and long antennæ sheaths, the claws with the hair attached, even the
 gastric teeth, all remain with wonderful exactness.
 
 To look at the rejected shell, indeed, any person not previously
@@ -2654,7 +2688,7 @@ singular instinct, had collected in a row along the dry ledge of the
 tank.
 
 Upon counting the numbers of my little colony, I found all right,
-excepting _C. mÃ¦nas_; him I could not discover, and I soon began to
+excepting _C. mænas_; him I could not discover, and I soon began to
 suspect that he was defunct. No time, therefore, was to be lost,
 so a diligent search for his remains was instantly commenced.
 Fishes, Buckies, Hermits, &c., were speedily placed in safety in
@@ -2674,7 +2708,7 @@ in performing this necessary act I tilted the stone, and so disturbed
 the Limpet. Guess my surprise at observing the overturned shell of the
 Patella to be quite empty, and its former occupant lying before me a
 mass of putrefaction.[5] It now began to dawn upon me that I must have
-libelled _C. mÃ¦nas_. A few moments served to confirm this opinion, for
+libelled _C. mænas_. A few moments served to confirm this opinion, for
 on lifting the stone, there darted out _a_--I could scarcely believe it
 was _the_ crab, who instantly went through a circus-like performance
 around the circumference of the vessel.
@@ -2696,14 +2730,14 @@ crab measuring about one inch across the back (_carapace_). By constant
 watchfulness, morning and evening, for several months, I naturally
 entertained a confident hope of being favoured with a sight of the
 moulting operation in at least a single instance. But no; persevering
-though my endeavours were, I was always disappointed. The exuviÃ¦ were
+though my endeavours were, I was always disappointed. The exuviæ were
 cast regularly enough, but the crabs so managed matters, that the
 process was completed either when I was asleep, or had just gone away.
 I could almost have sworn that the whole pack had entered into a league
 to annoy me.
 
 On one occasion I sat up all night, feeling confident, from symptoms
-which a certain Cancer mÃ¦nas exhibited, that he was speedily about to
+which a certain Cancer mænas exhibited, that he was speedily about to
 exuviate. Alas! I was mistaken. On my endeavouring to expedite the
 event by lifting up the carapace of the crab, I received a nip on my
 finger so severe, that I shall never forget it.
@@ -2765,8 +2799,8 @@ exhibit in throwing off the most trifling garment. In fact, the crab
 seemed to swell painlessly, and gently roll or glide out in a kind
 of ball. Until it had completely escaped from its old shell, I was
 somewhat puzzled to guess what shape it would eventually assume. The
-eyes and antennÃ¦, so soon as they left their old sheaths, commenced,
-together with the flabellÃ¦, to work as usual, although as yet they were
+eyes and antennæ, so soon as they left their old sheaths, commenced,
+together with the flabellæ, to work as usual, although as yet they were
 still inside the exuvium. This circumstance was distinctly visible by
 looking through the side of the half-cast shell.
 
@@ -2795,7 +2829,7 @@ Certainly no statement could more inadequately describe what I had
 witnessed in both of my crabs. Not only was the whole operation
 performed with perfect ease, but I am much inclined to believe with a
 degree of pleasure. For a while one of my crabs stood in juxtaposition
-to the shadow of its former self, and rubbed his antennÃ¦ and wee
+to the shadow of its former self, and rubbed his antennæ and wee
 peeping eyes as if awakening from a sleep. He had been lately, there
 was no doubt, living in an oppressed state, and might probably have
 surveyed things around him somewhat darkly, but now all was bright and
@@ -2882,7 +2916,7 @@ boiling water.
 
 The next series of specimens, five in number, possess even still
 greater interest than the first examples. They were produced by a
-youthful _C. mÃ¦nas_, at the following consecutive intervals:--
+youthful _C. mænas_, at the following consecutive intervals:--
 
 The first moult took place on 11th April 1858; the second on the 22d
 of May following; the third on July the 3d; the fourth on the 30th of
@@ -2906,7 +2940,7 @@ half the time that elapsed between the preceding moults.
 
 These interesting investigations, which had been conducted thus far so
 satisfactorily, were suddenly brought to a close by the death of my
-protÃ©gÃ©. This sad event occurred unexpectedly, not from overfeeding, as
+protégé. This sad event occurred unexpectedly, not from overfeeding, as
 some persons may suppose, but from natural causes.
 
 Whether increase of food always produces a like effect to that
@@ -2963,10 +2997,10 @@ covering, which, however, is capacious enough to hold that half of the
 animal that had not effected its deliverance at the moment when the
 novel arrestment was so unceremoniously served.
 
-The fourth and fifth pair of legs are free, while the eyes and antennÃ¦
+The fourth and fifth pair of legs are free, while the eyes and antennæ
 are also drawn out of their sheaths. (This is not very evident now,
 but such is really the fact, I having distinctly seen those organs
-in motion when the animal was in the living state.) The _chelÃ¦_, or
+in motion when the animal was in the living state.) The _chelæ_, or
 large claws, being still undetached, serve to bind the crab to its old
 integument, and thus enable the act of exuviation, or one phase of it
 at least, to be distinctly apparent.
@@ -2977,11 +3011,11 @@ some attention to them. These animals being so common, I kept by me at
 least a dozen specimens for the purpose of observing some of them, if
 possible, in the act of exuviation. The result of my labours has not
 been so satisfactory as I could wish, from my not having been able to
-collect any 'sets' of exuviÃ¦. I cannot, therefore, speak with certainty
+collect any 'sets' of exuviæ. I cannot, therefore, speak with certainty
 as to the frequency of this phenomena. By this time my readers will
 know that the tail of the Hermit-Crab is very tender and fleshy, being
 covered merely with an extremely delicate membraneous skin, while the
-carapace, claws, and antennÃ¦ of the animal are protected by a hard
+carapace, claws, and antennæ of the animal are protected by a hard
 crust, similar to the Lobster, Cray-fish, &c.
 
 From this peculiar formation of the crab, I was not at all surprised to
@@ -3012,7 +3046,7 @@ fixed in their natural position to the tail-piece. Although in several
 cases I have had no difficulty in discovering the rejected cuticle of
 the tail, at other times it has eluded my search. The cause of this
 I cannot explain. It may be that the animal, adopting the habits of
-the toad, swallows a portion of its exuviÃ¦ as soon as cast. On two
+the toad, swallows a portion of its exuviæ as soon as cast. On two
 occasions I found the slough of the body and claws of a crab, and
 waited patiently for several days, without success, expecting to get
 the tail portion. Growing impatient, it occurred to me that it would be
@@ -3063,7 +3097,7 @@ VII.
 
 Although abundant at many parts of the Scottish coast, at Cockburnspath
 (situated near the mouth of the Frith of Forth) only, has the writer
-met with the very beautiful prawn, _PalÃ¦mon Squilla_. At this locality
+met with the very beautiful prawn, _Palæmon Squilla_. At this locality
 specimens were very frequent in rock-pools situated near the shore, nor
 were such difficult to capture. The small net being placed cautiously
 over their head, the animals did not show signs of resistance, until
@@ -3073,13 +3107,13 @@ captives would give a powerful spring, and escape, from the confinement
 of the net, to the more congenial element from which they had been so
 unceremoniously ejected.
 
-Prawns (_PalÃ¦monidÃ¦_) exuviate very frequently, in some instances as
+Prawns (_Palæmonidæ_) exuviate very frequently, in some instances as
 often as once or twice a month. No sooner is one coat thrown off and
-the PalÃ¦mon recovered from the weakness which the process occasions,
+the Palæmon recovered from the weakness which the process occasions,
 than it commences, at first at intervals, and then almost incessantly
 day and night, preparations for a renewal of the wonderful operation.
 
-Every part of the body--eyes, antennÃ¦, and especially the sub-abdominal
+Every part of the body--eyes, antennæ, and especially the sub-abdominal
 fins, to certain portions of which the ova are attached in groups,
 and the lobes of the tail--are submitted to a severe rubbing and
 brushing process. The appearance of the prawn at this period is
@@ -3210,7 +3244,7 @@ Carefully I lift the Pagurus bodily out of the tank, and transfer him
 to a wine glass filled with clean water. After a few minutes have
 elapsed, the hands again commence their fishing operations. Observe,
 now, that these organs fan the fluid in such a manner as to catch any
-animalculÃ¦ that may be near, and draw them towards the aperture caused
+animalculæ that may be near, and draw them towards the aperture caused
 by the opening of the valves of the Barnacle. A close inspection will,
 I am sure, prove to your satisfaction that there is also distinctly
 apparent a second and smaller cluster of feathery fingers, whose duty
@@ -3518,7 +3552,7 @@ thus form a very curious feature in the aquarium.
 To test a fact, relative to the power which the Amphitrite is said
 to possess, in common with other tubiculous Annelids, of renewing
 certain portions of its body after sustaining injury, I snipped off the
-principal portions of its branchiÃ¦, and found that, after the lapse of
+principal portions of its branchiæ, and found that, after the lapse of
 a few months, my specimen renewed its mutilated organs.
 
 
@@ -3552,7 +3586,7 @@ c c Muscles which regulate the action of the foot
 
 2 THE MUSSEL CLOSED
 
-3 THE BERÃ–E (_Cydippe pileus_)
+3 THE BERÖE (_Cydippe pileus_)
 
 4 THE FAN AMPHITRITE (_A. ventilabrum_)]
 
@@ -3612,7 +3646,7 @@ duty in this respect is limited to the selection of objects suitable
 to their palate. Their 'at homes' being so frequent, the _Mytili_ can
 boast of a large circle of acquaintances. The Periwinkle, and his
 friend Silver Willie, often make a morning call, take pot luck, as it
-is termed, and then politely retire. _Mr. Carcinus MÃ¦nas_ and his poor
+is termed, and then politely retire. _Mr. Carcinus Mænas_ and his poor
 and dirty relation, _Maia Squinado_, perchance look in of an evening.
 _Solaster Papposa_, or occasionally the lanky-legged _Uraster Rubens_,
 and other 'stars' of the marine world, crawl in at unseasonable hours
@@ -3798,7 +3832,7 @@ A large specimen of this bivalve, procured accidentally from a fishwife
 in the street, was dropped into the aquarium, and placed close against
 the surface of the glass. The animal seemed highly delighted with its
 change of situation, for in a few moments the valves were opened, and
-a long draught of water taken in to bathe its branchiÃ¦, and furnish
+a long draught of water taken in to bathe its branchiæ, and furnish
 a hearty meal. Having satisfied its appetite, the next process, of
 course, was to find out what kind of a home he had been introduced
 into. The foot, a noble specimen, was soon protruded, and one after
@@ -3985,7 +4019,7 @@ was stretched out to an unusual length. No sooner was the end of the
 thread formed on the glass than immediately I firmly pressed the valves
 together, and held them in this position until I had gradually worked
 the Mussel up out of the vase, when I bound them close together by
-means of a piece of cord. I need not describe my manÅ“uvres further;
+means of a piece of cord. I need not describe my manoeuvres further;
 suffice it to say that the thread nearest to the base of the groove
 was found to be the one that was spun last. This, in my opinion, is
 invariably the case.
@@ -4021,7 +4055,7 @@ the surface like a cork, although it was near death's door.
 This phenomenon must be caused, I should suppose, by some sudden fright
 compelling the mollusc to close its shell with such rapidity as to
 prevent a proper supply of water being taken in. Having only air to
-exist upon, the animal then lingers on until its branchiÃ¦ become dried
+exist upon, the animal then lingers on until its branchiæ become dried
 up, and all moisture exhausted. In this state the Mussel opens its
 shell with a deep bursting sigh, and sinks to the bottom--dead.
 
@@ -4118,7 +4152,7 @@ it to be in active motion.
 
 This motive power is caused by countless cilia, the rapid vibration of
 which creates constant currents. This action preserves the health of
-the poor mollusc by Ã¦rating the water which passes over his respiratory
+the poor mollusc by ærating the water which passes over his respiratory
 organs.
 
 That some such wonderful contrivance is adopted, for conveying food
@@ -4126,7 +4160,7 @@ within the valves, too, is evident, when we consider that the Mussel
 is always affixed to some foreign substance, that it cannot hunt after
 prey, and therefore can subsist only upon whatever nutritious particles
 may be contained in the element in which it lives. These consist of
-minute animalculÃ¦, principally crustacea, which are drawn within the
+minute animalculæ, principally crustacea, which are drawn within the
 shell by powerful currents.
 
 I have often watched this phenomenon through a hand lens, and have
@@ -4206,7 +4240,7 @@ labours ceased for a time.
 After the lapse of a few days the building operation was resumed,
 and the tube carried fully an inch further, at right angles to its
 former position. The opposite end of the structure was next extended
-at an angle of 45Â° from the base of the vase, to a height of about two
+at an angle of 45° from the base of the vase, to a height of about two
 inches. Then commenced a very curious phenomenon. Some of the tentacles
 were incessantly elevated and extended across the vessel, until they
 touched the opposite end of the tube, with what object I could not then
@@ -4373,7 +4407,7 @@ and coloured glass. Such a 'concourse of atoms' was surely never before
 combined, either 'fortuitously' or otherwise, in the construction of so
 common an object as the tube of an Annelid.
 
-The branchiÃ¦ of the above mentioned specimen presented a most exquisite
+The branchiæ of the above mentioned specimen presented a most exquisite
 appearance, resembling the perfect skeleton of a leaf, supposing that
 to be dyed a brilliant crimson colour, and made to exhibit incessant
 life-like motion even in its most delicate and minute ramifications.
@@ -4383,9 +4417,9 @@ life-like motion even in its most delicate and minute ramifications.
 
 CHAPTER XIII.
 
-AcalephÃ¦.
+Acalephæ.
 
-(MEDUSÃ†, OR JELLY-FISH.)
+(MEDUSÆ, OR JELLY-FISH.)
 
 
 'And now your view upon the ocean turn,
@@ -4434,14 +4468,14 @@ utter.' To his eye all created things possess an interest doubly great,
 not only from their marvellous structure, but from the mission they are
 destined to fulfil in this lower world.
 
-What peculiar mission the AcalephÃ¦ (which we are now about to consider)
+What peculiar mission the Acalephæ (which we are now about to consider)
 were destined to fulfil it has long puzzled men of science to explain.
 Nor can this be wondered at, when we remember the amazing number of
 these creatures, and also the extreme delicacy of their structure.
 Some indeed appear almost as if they were formed by the sportive
 combination of air and water, as if the sea-breeze ruffling the face of
 ocean caused bubbles innumerable to arise, which becoming mysteriously
-endowed with life, thenceforth existed as MedusÃ¦.
+endowed with life, thenceforth existed as Medusæ.
 
 They have, indeed, frequently been spoken of as 'animated sea-water,'
 or 'living jelly.' These expressions seem most appropriate when we
@@ -4452,7 +4486,7 @@ graceful object is a thin film, that a stroke of the sponge or finger
 will remove in an instant.
 
 The most satisfactory explanation that has been offered as to the use
-and purpose of the MedusÃ¦ is, that _they serve as the principal food of
+and purpose of the Medusæ is, that _they serve as the principal food of
 whales and other Cetacea_. To these marine monsters--frequently found
 from 70 to 110 feet long--we can imagine a few hundreds of jelly-fish
 would be considered a small meal. The supply, however, is ever equal to
@@ -4476,12 +4510,12 @@ a third series, which are again followed by others.
 
 Now, whales possess no such weapons. Their enormous mouths are not
 filled with 'tusks or grinders, but fitted instead with vast numbers of
-oblique laminÃ¦ of a softer substance, usually denominated whalebone,
+oblique laminæ of a softer substance, usually denominated whalebone,
 which is admirably adapted for the crushing and masticating of soft
 bodies.'
 
 To give an idea of the amazing extent of the harvests of 'whale food,'
-as the MedusÃ¦ are termed, that abound in various parts of the ocean,
+as the Medusæ are termed, that abound in various parts of the ocean,
 we need only quote the evidence of various navigators on the subject.
 One (Lieut. Maury), for example, states, that on the coast of Florida
 he met with a shoal of these animals, that covered the sea for many
@@ -4513,7 +4547,7 @@ is probable the sea is upwards of a mile in depth; but whether these
 substances occupy the whole depth is uncertain. Provided, however, the
 depth which they extend be but 250 fathoms, the above immense number
 of one species may occur in a space of two miles square. It may give
-a better conception of the amount of MedusÃ¦ in this extent, if we
+a better conception of the amount of Medusæ in this extent, if we
 calculate the length of time that would be requisite with a certain
 number of persons for counting this number. Allowing that one person
 could count 1,000,000 in seven days, which is barely possible, it would
@@ -4547,13 +4581,13 @@ Hugh Miller also gives a beautiful prose description of the luminosity
 of our own seas, but we must resist the temptation to introduce it here.
 
 The appearance of the Greenland Seas is principally owing to the
-presence of the minute species of AcalephÃ¦, but there are many others
+presence of the minute species of Acalephæ, but there are many others
 that grow to an immense size. Specimens of these may be frequently seen
 cast on the sea-beach by the force of the waves. When in their native
 element they form the swimmer's dread, owing to a peculiar stinging
 power which they possess.
 
-The MedusÃ¦ have been divided into groups, and distinguished according
+The Medusæ have been divided into groups, and distinguished according
 to their different organs of locomotion. The common idea is that all
 jelly-fishes are like mushrooms or miniature umbrellas. Such, it is
 true, is their general form, but others abound both in our own and
@@ -4561,7 +4595,7 @@ in foreign seas, that possess a totally different appearance. For
 instance, some move by means of numerous cilia, or minute hairs that
 are attached to various parts of their bodies. By the exercise of these
 organs the creatures glide through the water, and hence they are called
-_ciliograde AcalephÃ¦_.
+_ciliograde Acalephæ_.
 
 One of the most remarkable examples of this class is seen in the
 Girdle of Venus (_Cestum veneris_). 'This creature is a large, flat,
@@ -4588,16 +4622,16 @@ Coleridge alludes in the following passage:--
     They curled and swam; and every track
     Was a flash of golden fire.'
 
-Another of this class is the common BeroÃ« (_Cydippe pileus_); its body
+Another of this class is the common Beroë (_Cydippe pileus_); its body
 is melon-shaped, and covered over by rows or bands of cilia, placed
 similarly to the treads on a water wheel, one above another. These are
 entirely under the will of the little gelatine. It can use each or
 all of them, and thus row itself along at pleasure. But perhaps the
 most singular portion of this creature is what has been termed its
 fishing apparatus, though by some writers it is considered merely to
-be the means by which the BeroÃ« anchors its body to any desired spot.
+be the means by which the Beroë anchors its body to any desired spot.
 It consists of two exceedingly slender filaments or streamers, which
-measure many times the length of the BeroÃ« itself. Some writers, again,
+measure many times the length of the Beroë itself. Some writers, again,
 fancy that these organs are used to propel the animal. This must be an
 erroneous notion, for if they were cut off, the creature would still
 continue to move with the same power as before. Nay more, if the little
@@ -4608,20 +4642,20 @@ connected with the entire animal.
 From the filaments here described, others more slender still depend at
 regular intervals, which curl up like vine tendrils upon the principal
 stem. The whole can be spontaneously elongated or slowly withdrawn
-within the body of the BeroÃ«, where they lie enclosed in two sheaths
+within the body of the Beroë, where they lie enclosed in two sheaths
 until again required for use.
 
 These interior 'sheaths,' which resemble in shape the drone of a
 bag-pipe, are easily seen, being almost the only parts which are not
 perfectly transparent. They are whitish in colour, and semiopaque.
-(Plate 6 contains a sketch of the BeroÃ«, drawn from nature.)
+(Plate 6 contains a sketch of the Beroë, drawn from nature.)
 
 I may mention that the paddles, with their comb-like array of cilia,
 flap successively in regular order from the top to the bottom of each
 row. This wave-like movement takes place simultaneously in all the
 rows, when the animal is in full vigour.
 
-The organs of progression in the _Pulmonigrade_ AcalephÃ¦, as their name
+The organs of progression in the _Pulmonigrade_ Acalephæ, as their name
 imports, bear certain resemblance to the lungs in respiration. They
 move by the expansion and contraction of their umbrella-shaped bodies.
 Graceful and elegant indeed are the motions of these creatures. I have
@@ -4632,7 +4666,7 @@ confined.
 In descending they turn over and allow themselves to sink gradually as
 if by their own weight.
 
-The third division of the AcalephÃ¦ is termed _Physograde_. The most
+The third division of the Acalephæ is termed _Physograde_. The most
 common member of this group is the _Physalus_, so well known to all
 sailors under the name of the Portuguese Man-of-War. It is buoyed up
 by air bladders--in fact, its entire body appears as one bladder, which
@@ -4649,7 +4683,7 @@ This Physalus is a somewhat mysterious being, and zoologists have not
 as yet been able to determine many points connected with its structure
 and development.
 
-The _Cirrigrade_ AcalephÃ¦, too, are a singular family. They exhibit a
+The _Cirrigrade_ Acalephæ, too, are a singular family. They exhibit a
 higher stage of development than those already alluded to, and possess
 a kind of skeleton embedded within their gelatinous bodies.
 
@@ -4657,7 +4691,7 @@ The _Porpita_ and _Velella_ are examples of this class, but for
 detailed descriptions I must refer the reader to larger works which
 treat on the subject.
 
-I cannot conclude this brief and imperfect sketch of the AcalephÃ¦
+I cannot conclude this brief and imperfect sketch of the Acalephæ
 without noticing their singular mode of reproduction. Nothing can
 appear more marvellous than this process when first brought before
 one's attention. It far excels the wildest dreams of fiction; and were
@@ -4670,11 +4704,11 @@ on buoys, oyster shells, &c., long submerged), will, it may be in a
 simple aquarium, produce a number of small objects which, on being
 examined through the microscope, are found to be, not young Polypes,
 but Jelly-fish! In process of time, the latter, by a wondrous law of
-nature, will produce in their turn, not MedusÃ¦, but Polypes!
+nature, will produce in their turn, not Medusæ, but Polypes!
 
 'Imagine,' says Mr. Lewes, 'a lily producing a butterfly, and the
 butterfly in turn producing a lily, and you would scarcely invent
-a marvel greater than this production of MedusÃ¦ was to its first
+a marvel greater than this production of Medusæ was to its first
 discoverers. Nay, the marvel most go further still, the lily must first
 produce a whole bed of lilies like its own fair self before giving
 birth to the butterfly, and this butterfly must separate itself into a
@@ -4684,7 +4718,7 @@ Let me now, by entering briefly into detail, endeavour to make the
 reader acquainted with the leading features of this mysterious subject,
 known as 'the alternation of generations.'
 
-The adult MedusÃ¦, then, gives birth to a number of oval gemmÃ¦ or buds,
+The adult Medusæ, then, gives birth to a number of oval gemmæ or buds,
 appropriately so called by most writers, which appear like minute
 jelly bubbles, covered with numberless vibratile cilia. These organs,
 ten thousand times more delicate, we may imagine, than the eyelashes
@@ -4699,9 +4733,9 @@ extremity; from this portion of the animal four arms appear surrounding
 a kind of mouth. The arms lengthen, and are soon joined by four others.
 These organs, as also the inner surface of the lips and of the stomach,
 are covered with cilia, and become highly sensitive. They are used
-in the same manner as the tentacula of the ActiniÃ¦, namely, for the
+in the same manner as the tentacula of the Actiniæ, namely, for the
 capture of food. There is this difference, be it observed, between the
-two animals, that while the infant MedusÃ¦ labours incessantly to gain
+two animals, that while the infant Medusæ labours incessantly to gain
 its daily meals, the zoophyte remains still, and trusts to chance for
 every meal that it enjoys.
 
@@ -4711,7 +4745,7 @@ thirty. 'And the body, originally about the size of a grain of sand,
 becomes a line, or the twelfth part of an inch in length.'
 
 Thus far there appears nothing particularly striking or improbable in
-the history of the MedusÃ¦; the next stage, however, exhibits matter for
+the history of the Medusæ; the next stage, however, exhibits matter for
 our 'special wonder.'
 
 The young Acaleph now throws off its animal existence, and sinks into a
@@ -4747,14 +4781,14 @@ at the commencement of spring that they undergo the last portion of
 this 'transformation strange.'
 
 Still, this cannot be taken as a general rule. Dr. Reid, who for a
-period of two years kept colonies of MedusÃ¦, and assiduously watched
-the various stages of their development, found that the larvÃ¦ of
+period of two years kept colonies of Medusæ, and assiduously watched
+the various stages of their development, found that the larvæ of
 one colony, which was obtained in September 1845, did not split
-transversely into young MedusÃ¦ in the spring of 1846, as he expected
+transversely into young Medusæ in the spring of 1846, as he expected
 them to do, but continued to produce stolens and buds abundantly.
 
-On the other hand, the larvÃ¦ of the other colonies, which this
-gentleman obtained in July, began to yield young MedusÃ¦ about the
+On the other hand, the larvæ of the other colonies, which this
+gentleman obtained in July, began to yield young Medusæ about the
 middle of March. This process takes place in the following manner:
 A 'bud' having arrived at maturity, it becomes 'cylindrical,'
 considerably elongated, and much diminished in diameter, its outer
@@ -4765,7 +4799,7 @@ in number, are first formed at the top, and slowly extend downwards.
 Gradually as these furrows become deeper, the tentacula waste away, and
 upon the margin of the upper ring eight equi-distant rays are formed.
 The process continuing, in the space of a fortnight or so each groove
-or ring is in like manner furnished with rays. The MedusÃ¦ now present
+or ring is in like manner furnished with rays. The Medusæ now present
 an appearance exactly resembling a series of cups piled up one within
 the other. Strange to state, each little cup becomes eventually endowed
 with life! As the uppermost segment is completely developed, it rests
@@ -4785,11 +4819,11 @@ _Cyanea capillata_, our once insignificant jelly-bag may perhaps
 appear, and by an exercise of its urticating powers, send some unhappy
 swimmer smarting and trembling to his home.
 
-While the MedusÃ¦ column proceeds to throw off from its uppermost part
+While the Medusæ column proceeds to throw off from its uppermost part
 living segments of itself, its lower half, or stem, continues to grow,
 but does not become ringed, for as the budding process ceases, the last
 formed cup rests on newly-formed tentacula! Then again stolens are
-thrown out, on which young MedusÃ¦ are formed, as before described.
+thrown out, on which young Medusæ are formed, as before described.
 
 Contemplating such mysteries as these, the mind becomes bewildered and
 the spirits humbled.
@@ -4804,7 +4838,7 @@ Chamisso, and termed the 'alternation of generation,' but was much
 improved and extended by the researches of Steenstrup. Professor Owen,
 however, had previously reduced the theory to a fixed and definite
 scientific form, under the title of '_Parthenogenesis_.' Another
-author, not viewing the MedusÃ¦ in the various stages of development
+author, not viewing the Medusæ in the various stages of development
 as an aggregation of individuals, 'in the same sense that one of
 the higher animals is an individual,' proposes that each Medusa be
 considered as an individual, developed into so many 'zooids.'
@@ -4819,7 +4853,7 @@ works of Professor Owen.
 
 
 
-[Illustration: MEDUSÃ† IN VARIOUS STAGES OF DEVELOPMENT.]
+[Illustration: MEDUSÆ IN VARIOUS STAGES OF DEVELOPMENT.]
 
 
 
@@ -4965,7 +4999,7 @@ ova including, on an average, two embryos, making a total progeny of
 forty thousand, produced from one parent in little more than two months.
 
 I may mention that on no occasion have I ever found the spawn coils of
-either DoridiÃ¦ or EolididÃ¦ in my tanks, or at the sea-shore, except
+either Doridiæ or Eolididæ in my tanks, or at the sea-shore, except
 during the months of January and February or March; neither have any
 of my specimens spawned more than once during an entire season. From
 noticing the same group of parent slugs congregated, and remaining,
@@ -5016,7 +5050,7 @@ famed for their singular gastronomic tastes. One poet writes:--
 But, 'Mandarins and Pigtails,' what was such _risk_, I ask, compared
 to that which _he_ endured, who swallowed the first mouthful of
 birds'-nest soup? or horror of horrors, the first spoonful of sea-snail
-stew? Yet we are told that both the 'mucilage' and the _BÃªches de Mer_
+stew? Yet we are told that both the 'mucilage' and the _Bêches de Mer_
 dishes are savoury and highly grateful to the palate of an appreciating
 gourmand.
 
@@ -5032,7 +5066,7 @@ him to his oysters, and his periwinkles, and his craw-fish, and not
 expect him to swallow the much more comely sea-slug. But surely a
 Briton, who has eaten himself into a poisonous plethora upon mussels,
 has no right to hold up his hands and eyes at a Chinaman enjoying his
-honest, well-cooked stew of _BÃªches de Mer_.
+honest, well-cooked stew of _Bêches de Mer_.
 
 'During the discussion of this dish our Chinese master of the
 ceremonies solemnly interposed. We were neglecting the rudiments of
@@ -5096,7 +5130,7 @@ some pebbles, and the crab was feasting leisurely upon his tender flesh.
 It is most amusing to watch the Blennies, too, attack a Pholas, cast
 into the tank, and to witness their mode of pecking at and shaking
 their victim, and turning innumerable somersaults with it in their
-mouths. The strength they exhibit in these manÅ“uvres is perfectly
+mouths. The strength they exhibit in these manoeuvres is perfectly
 astounding.
 
 About two hours after they had received one of their favourite
@@ -5166,7 +5200,7 @@ to enjoy his dinner at a fashionable hour, in private.
 
 Are not these cases palpably alike? Passing by certain details, were
 not the pawkiness and cunning of the epicurean beggar fully equalled by
-our diminutive friend, _C. mÃ¦nas_?
+our diminutive friend, _C. mænas_?
 
 'But,' you ask, 'what then was the opal stick?' Ay, there's the rub,
 for even the greatest naturalists cannot positively agree as to the
@@ -5286,7 +5320,7 @@ The nodules on examination are found to be composed of pulverized
 rock, which is drawn in at the pedal opening, and ejected in the
 above manner, thereby effectually clearing the lower portion of the
 orifice. It was suggested to me that these threadlike objects were the
-fÅ“cal matters of the Pholas, but this idea was soon dispelled by the
+foecal matters of the Pholas, but this idea was soon dispelled by the
 assistance of the microscope; and, moreover, from the fact that the
 threads are never visible when the animal is in a quiescent state, but
 only when it is busily engaged in its mysterious task of boring.
@@ -5336,7 +5370,7 @@ substances, in which it lives?
 
 For hundreds of years this query has been asked, and various are the
 replies which from time to time have been given. Singular to state,
-although specimens of the Pholas, and its allies the SaxicavÃ¦, are to
+although specimens of the Pholas, and its allies the Saxicavæ, are to
 be procured in abundance in many parts of the kingdom, the subject is
 not even yet positively settled.
 
@@ -5381,7 +5415,7 @@ the rock by means of silicious particles situated in the foot and other
 parts of the animal, has been for some time proved to be erroneous,
 from the fact, that the combined skill of some of our best anatomists
 and microscopists has failed to discover the slightest presence of any
-particles of silex in the PholadidÃ¦, although these are believed to
+particles of silex in the Pholadidæ, although these are believed to
 exist in other families of the boring acephala.
 
 The fourth theory, that of ciliary currents as an accessory agent in
@@ -5601,7 +5635,7 @@ end, the stylet will, if struck with a certain degree of force, vibrate
 rapidly to and fro for some seconds, in the same manner as a piece of
 steel or whalebone would be affected, under like circumstances.[14]
 
-[14] In the _AthenÃ¦um_ (Nos. 1632 and 1636), were kindly published two
+[14] In the _Athenæum_ (Nos. 1632 and 1636), were kindly published two
 letters from the author on the above subject, under the respective
 dates January 26th, and February 28th, 1859.
 
@@ -5741,7 +5775,7 @@ flowers, too, grow beneath the wave, and rival in loveliness the gems
 which adorn our fields and hedge-rows. Nay, more, like the land, the
 ocean owns its various grasses, its lemons, and cucumbers, its worms,
 slugs, and shelly snails, its hedgehogs, its birds, its ducks and geese
-(_anatidÃ¦_), its dogs, its hares, and lastly its _mice_ (_aphroditÃ¦_.)
+(_anatidæ_), its dogs, its hares, and lastly its _mice_ (_aphroditæ_.)
 The latter objects, despite their unprepossessing name, being in no
 wise less interesting than those above mentioned.
 
@@ -5770,7 +5804,7 @@ a metallic effulgence. Even if the animal, when dead, is placed in
 clear water, the same varied effect is seen as often as the observer
 changes his position.
 
-Not only are the _SetÃ¦_ worthy of notice on account of their lustrous
+Not only are the _Setæ_ worthy of notice on account of their lustrous
 beauty, but also for their shape, and the important part they play in
 the economy of the animal. These lance-like spines seem to be used by
 the Aphrodite as weapons of defence, like the spines of the hedgehog
@@ -5865,7 +5899,7 @@ found to flourish in our own seas; it is, however, affixed to a stalk
 (pedunculated) only in the early periods of its existence.
 
 When first discovered by Mr. Thompson in its infant state, the
-_Pentacrinus EuropÃ¦us_ was believed to be a distinct animal. It was
+_Pentacrinus Europæus_ was believed to be a distinct animal. It was
 taken attached to the stems of zoophytes of different orders, and
 measured about three-fourths of an inch in height. In form it resembled
 a minute comatula mounted on the stalk of a Pentacrinus. Subsequent
@@ -5906,7 +5940,7 @@ fully expanded rays.
 
 Before treating of what are termed the _true_ Star-fishes, we require
 to dwell briefly upon an intermediate family named by Professor Forbes
-the _OphiuridÃ¦_, 'from the long serpent or worm-like arms, which are
+the _Ophiuridæ_, 'from the long serpent or worm-like arms, which are
 appended to their round, depressed, urchin like bodies.... They hold
 the same relation to the Crinoidea that the true Star-fishes hold to
 the Sea-Urchins. They are spinigrade animals, and have no true suckers
@@ -5915,15 +5949,15 @@ facility) by means of five long flexible-jointed processes placed at
 regular distances around their body, and furnished with spines on the
 sides and membraneous tentacula. These processes are very different
 from the arms of the true Star-fishes, which are lobes of the animal's
-body, whereas the arms of the OphiuridÃ¦ are super-added to the body,
+body, whereas the arms of the Ophiuridæ are super-added to the body,
 and there is no excavation in them for any longation of the digestive
 organs.'[16]
 
 [16] British Star-fishes.
 
-The British OphiuridÃ¦ are now classed under two genera; of the OphiurÃ¦,
+The British Ophiuridæ are now classed under two genera; of the Ophiuræ,
 or Sand-stars only two species (_O. texturata_ and _O. albida_) are
-found on our shores; and the OphicomÃ¦, or Brittle-stars, of which there
+found on our shores; and the Ophicomæ, or Brittle-stars, of which there
 are ten.
 
 An extraordinary feature, characteristic of all the above-mentioned
@@ -5933,7 +5967,7 @@ If a specimen be handled, a certain number of fragments will assuredly
 be cast off. If the rays become entangled in sea-weed, or even if the
 water in which the animal resides happens to become impure, the same
 disastrous result follows, until nothing but the little circular disc
-remains. As a set off against this weakness, both the OphiurÃ¦ and the
+remains. As a set off against this weakness, both the Ophiuræ and the
 Brittle-stars possess reproductive powers of a high order. Hence it not
 unfrequently happens that if each and all the rays of a specimen be
 rejected, the animal will live on, and eventually, perhaps, become a
@@ -5980,7 +6014,7 @@ although he had never seen a living or dead specimen.
 
 The body of the animal is divided into rays, like the pictured form of
 one of the heavenly stars, and the fancied resemblance is most apparent
-in the AsteridÃ¦, or true Star-fishes, of which we are now about to
+in the Asteridæ, or true Star-fishes, of which we are now about to
 speak.
 
 This wonderful race of animals, for their beauty of colour, elegance
@@ -5988,9 +6022,9 @@ of shape, and peculiarity of structure, possess a great degree of
 interest, not only to the naturalist, but also to the casual observer
 by the sea-side.
 
-There are fourteen British species of AsteriadÃ¦, which are arranged
-under four families, namely--the UrasteriÃ¦, the SolasteriÃ¦, the
-GonasteriÃ¦, and the AsteriÃ¦. This group contains no less than eight
+There are fourteen British species of Asteriadæ, which are arranged
+under four families, namely--the Urasteriæ, the Solasteriæ, the
+Gonasteriæ, and the Asteriæ. This group contains no less than eight
 generic types, clearly distinguished from each other by certain
 characters, 'derived from the outline of the body, the number of rows
 of suckers in the avenues, and the structure and arrangement of the
@@ -6090,7 +6124,7 @@ entrance.
 
 As this is an interesting subject, perhaps the reader would like to
 have the exact words which are used by two celebrated naturalists, one
-of whom attempts to vindicate the character of the AsteridÃ¦, the other
+of whom attempts to vindicate the character of the Asteridæ, the other
 to blacken it.
 
 Sir John Dalyell--a high authority upon all matters of marine
@@ -6162,7 +6196,7 @@ seven rays. This is the animal of which Professor Forbes discourses so
 pleasantly about its winking derisively at his despairing endeavours
 to preserve even a small portion of what at that time was his maiden
 specimen. The Luidia is even more brittle--more regardless of its
-wholeness, than the _OphiurÃ¦_, which renders the capture of a perfect
+wholeness, than the _Ophiuræ_, which renders the capture of a perfect
 specimen a most difficult task.
 
 
@@ -6295,7 +6329,7 @@ aquiferous system.'
 
 Many other writers, among whom is Professor Forbes (from whose work
 on Star-fishes I have transferred the foregoing extract), assert, in
-opposition to the great Swiss naturalist, that the EchinidÃ¦ move by
+opposition to the great Swiss naturalist, that the Echinidæ move by
 the joint action of their suckers and spines. 'The argument,' says the
 great British naturalist, 'against the suckers being organs of motion,
 founded on their position above as well as below, would equally apply
@@ -6362,7 +6396,7 @@ the surface of the body, among the spines, and around the mouth of the
 Urchin.
 
 The use of these singular objects--by naturalists termed
-PedicellariÃ¦--is totally unknown. Some writers think they are an
+Pedicellariæ--is totally unknown. Some writers think they are an
 integral part of the Echinus, others describe them as distinct and
 parasitic animals. There is good reason to believe that the former will
 eventually be proved to be the correct explanation of the matter.
@@ -6401,11 +6435,11 @@ I have made two careful drawings of the jaws and teeth of the Echinus.
 No. 1 represents, as it were, the 'elevation' of the pentagonal pyramid
 above described, while No. 2 constitutes the 'plan' of the same object.
 
-The _Echinus sphÃ¦ra_, or common Egg-Urchin, may often be seen forming
+The _Echinus sphæra_, or common Egg-Urchin, may often be seen forming
 a curious ornament in the drawing-rooms of the "West End," and also in
 the dwellings of the poorer classes, who, according to some authors,
 boil it like eggs, and so eat it. Hence its popular title. Among the
-ancients the EchinidÃ¦ were accounted a favourite dish. 'They were
+ancients the Echinidæ were accounted a favourite dish. 'They were
 dressed with vinegar, honied wine or mead, parsley and mint. They were
 the first dish in the famous supper of Lentulus when he was made Flamen
 Martialis. By some of the concomitant dishes they seemed designed as a
@@ -6469,7 +6503,7 @@ CHAPTER XX.
 
 Sea-Cucumbers.
 
-(HOLOTHURIADÃ†.)
+(HOLOTHURIADÆ.)
 
 
 
@@ -6477,7 +6511,7 @@ Sea-Cucumbers.
 XX.
 
 
-There is a very singular group of animals, the _HolothuriadÃ¦_, that
+There is a very singular group of animals, the _Holothuriadæ_, that
 claims a passing notice, from their near relation in structural
 formation to the Sea-Urchins, although externally they also exhibit
 a certain resemblance to the _Annelides_. They are commonly termed
@@ -6492,7 +6526,7 @@ concealed, is protruded and expanded, until it assumes the form of a
 beautiful flower.
 
 The animal moves principally by aid of sucker-like feet, similar in
-form to those of the AsteriadÃ¦, or Sea-Urchins. In most species, the
+form to those of the Asteriadæ, or Sea-Urchins. In most species, the
 body is divided longitudinally into five rows of suckers. In some,
 however, these organs are scattered over the entire surface, while in
 the small Sea-Cucumber (_Psolus phantapus_), they are arranged in three
@@ -6514,7 +6548,7 @@ Trepang, some being held in higher esteem than others,--hence the great
 difference which exists in the price of the article. The lowest quality
 being ten dollars, and the highest fifty dollars, per pecul of 133 lbs.
 
-The following are titles by which a few of the HolothuriÃ¦ are known in
+The following are titles by which a few of the Holothuriæ are known in
 China:--
 
      Great Black-Stone Trepang;
@@ -6526,7 +6560,7 @@ China:--
      The Middle Ash-Bald Trepang, &c., &c.
 
 The illustration on Plate 11 gives a good idea of the typical form
-of the HolothuriadÃ¦. It represents a species of the genus Cucumaria,
+of the Holothuriadæ. It represents a species of the genus Cucumaria,
 _C. communis_, or common Sea-Cucumber. Its length is from four to
 eight inches; but, like all its kindred, it possesses the power of
 considerably extending or contracting its body at will. The Tentacula
@@ -6547,7 +6581,7 @@ a still more wonderful phenomenon. At certain times members of this
 species will divide their body into a number of parts, each of which
 will in due course become a new and completely-formed animal. After
 this the reader will be prepared to learn, that to build up a new
-inside, or create a new set of branchiÃ¦, is to a Holothuria a very
+inside, or create a new set of branchiæ, is to a Holothuria a very
 trifling and insignificant task.
 
 
@@ -6581,7 +6615,7 @@ discover, in almost every pool, from two to twenty of these creatures.
 
 At rest, the Aplysia is not by any means inviting, but when in motion,
 elevating and depressing the fleshy mantle that covers over the fringed
-and lobed branchiÃ¦, its appearance is exceedingly graceful.
+and lobed branchiæ, its appearance is exceedingly graceful.
 
 Striding across a pool on the look-out for some Gobies, whose forms
 darting beneath a large stone had not escaped my glance, I perceived
@@ -6607,7 +6641,7 @@ several writers on natural history.
 
 Although generally believed to be gentle and perfectly harmless, yet,
 as Professor Forbes observes, few molluscs have had a worse character
-than the AplysiÃ¦. From very ancient times they have been regarded with
+than the Aplysiæ. From very ancient times they have been regarded with
 horror and suspicion; and many writers on natural history, conversant
 with them only through the silly stories of ignorant fishermen,
 have combined to hold them up as objects of detestation. To touch
@@ -6633,7 +6667,7 @@ tint.
 
 CHAPTER XXII.
 
-SerpulÃ¦ and SabellÃ¦.
+Serpulæ and Sabellæ.
 
 
 
@@ -6643,7 +6677,7 @@ SerpulÃ¦ and SabellÃ¦.
 1, 2 SEA-URCHIN'S TEETH (Two illustrations.)
 3 COMMON SEA CUCUMBER
 4 COMMON RAZOR-SHELL
-5 COMMON SERPULÃ†, attached to a piece of stone.]
+5 COMMON SERPULÆ, attached to a piece of stone.]
 
 
 
@@ -6652,11 +6686,11 @@ XXII.
 
 
 With the exception of the Balani (Acorn-Barnacles), perhaps the most
-common objects to be met with at the sea-shore are the SerpulÃ¦.
+common objects to be met with at the sea-shore are the Serpulæ.
 Scarcely a rock, or shell, or bit of old china, or piece of wood, or
 rusty nail, lying near low-water mark, but is encrusted with colonies
 of these animals. I have a small twig of a tree by me, so thickly
-coated with SerpulÃ¦ as to obscure all signs of its ligneous character,
+coated with Serpulæ as to obscure all signs of its ligneous character,
 except at each end. A shell also exhibits the same phenomenon, and
 well-nigh defies the most skilful observer to define its original form
 with any degree of certainty.
@@ -6700,9 +6734,9 @@ outside edges of this wall of stone, yet the oldest pilots know of no
 tradition of any change in its appearance. This durability is by far
 the most curious fact in its history; _it is due to a tough layer, a
 few inches thick, of calcareous matter, wholly formed by the successive
-growth and death of the small shells of SerpulÃ¦, together with some
+growth and death of the small shells of Serpulæ, together with some
 few Barnacles_, &c. These insignificant organic beings, especially
-the SerpulÃ¦, have done good service to the people of Pernambuco, for
+the Serpulæ, have done good service to the people of Pernambuco, for
 without their protective aid the bar of sandstone would inevitably have
 been long ago worn away, and without the bar there would have been no
 harbour,'
@@ -6712,7 +6746,7 @@ reproduction of these Annelids. I have paid much attention to the
 subject, but as yet have not gained any positive information regarding
 it. The only fact which I consider worthy of being chronicled is the
 following: On one occasion, when quite a novice in Marine Zoology,
-while observing a beautiful group of SerpulÃ¦ seated on a stone, I saw
+while observing a beautiful group of Serpulæ seated on a stone, I saw
 issuing from out one of the tubes a kind of very fine dust, of a rich
 crimson hue, which continued to arise for nearly an hour in spite of
 repeated efforts to disperse it by aid of a camel-hair pencil. At first
@@ -6723,19 +6757,19 @@ great source of regret to me that I did not endeavour to discover what
 the dust was composed of; but have little doubt that the microscope
 would have shown it to be, in reality, the ova of the Serpula.
 
-Another class of Annelidans, termed SabellÃ¦, like the SerpulÃ¦, also
+Another class of Annelidans, termed Sabellæ, like the Serpulæ, also
 build habitations for themselves, but not of the same materials.
 Instead of being white, the tubes of the first mentioned animals are
 brown in colour, and composed of minute granules of sand, or small
 shells, and lined internally with a gelatinous substance exuded from
 the body of the worm. On the interior of the oyster and other shells,
 and even in univalves occupied by the Lobster Crab, various tubes of
-SabellÃ¦ may often be seen. They are, however, generally discovered
+Sabellæ may often be seen. They are, however, generally discovered
 congregated together, forming a kind of honeycomb mass in the fissures
 of rocks, or against the sides of rock-pools, or on the surface of
 small stones, &c.
 
-A mass of SabellÃ¦ tubes forms by no means an inappropriate or
+A mass of Sabellæ tubes forms by no means an inappropriate or
 unpleasant object for the tank, as the animals are hardy, and will
 live for many months if the water be kept pure. Moreover, while in
 confinement, they do not live in luxurious indolence, but ever seem
@@ -6743,14 +6777,14 @@ to be busy in the exercise of their architectural propensities, making
 alterations, repairing damages, or otherwise 'sorting' their tubiculous
 habitations.
 
-'The tubes of the SabellÃ¦,' says Dr. Williams, 'are soft, flexible,
+'The tubes of the Sabellæ,' says Dr. Williams, 'are soft, flexible,
 and muddy. Slimy mucus furnished by the integumentary glands of the
 body is the mortar or cement, fine sand molecules are the "stones" or
-solid material of the architecture. In the SabellÃ¦ the lime of which
+solid material of the architecture. In the Sabellæ the lime of which
 the tubes are built is held in solution in the mucus provided by the
 cutaneous glands. It is adjusted in the fluid form, and moulded by
 appropriate tools into the required shape. It then _solidifies, too,
-under water_, like the "Aberthaw lime." The tube of the SabellÃ¦ fits
+under water_, like the "Aberthaw lime." The tube of the Sabellæ fits
 closely round the body of the worm; it is slightly elastic, and the
 interior is smooth.'
 
@@ -7175,7 +7209,7 @@ it into the tank. A considerable deal of amusement, moreover, is often
 to be obtained by watching the fishes engaged at such a meal. How
 they toss the valves of the Mytilus about, and snap at each other's
 tails! How vexed they become if by accident the shelly dish is turned
-topsy-turvy, and resists all their manÅ“uvres to reverse it so as
+topsy-turvy, and resists all their manoeuvres to reverse it so as
 to get at the meat! The valves of a large mussel will sometimes be
 literally cleaned out by some half dozen Blennies in the course of an
 hour.
@@ -7534,7 +7568,7 @@ for his trouble.
 
 First, then, in regard to the tank. This indispensable requisite may be
 procured at certain shops in almost every town in the United Kingdom.
-Its price varies from two or three shillings to Â£20. The expensive
+Its price varies from two or three shillings to £20. The expensive
 kinds are generally oblong in form, but their construction being
 somewhat intricate, they are apt to get out of order, unless made by
 skilful and thoroughly competent artistes. Under certain circumstances,
@@ -7655,7 +7689,7 @@ resting-place.
 Wherever the above phenomenon is apparent, rest assured that the
 aquarium is in good condition. It is, in fact, to the oxygen thus given
 out by the plants and infant vegetation that the animals owe their
-existence. If no algÃ¦ were introduced, the water would become impure,
+existence. If no algæ were introduced, the water would become impure,
 and unless changed often, your little colony would surely die,--at
 least those of its members who were unable to rise above the fluid, and
 occasionally breathe the fresh air.
@@ -7672,7 +7706,7 @@ dulse or Chondrus Crispus, form the only sea-weeds that it is necessary
 to introduce into an aquarium. In fact, one or two fronds of the Ulva
 Latissima alone, will answer perfectly well to purify the water of even
 a comparatively large tank. I have often been surprised to find how
-small a quantity of algÃ¦ was required for the purpose mentioned. After
+small a quantity of algæ was required for the purpose mentioned. After
 allowing a single frond to float for a few days in a tank, in which
 some sea-water was newly deposited, I took it out, and for an entire
 twelvemonth the water remained healthy and as clear as crystal.
@@ -7706,7 +7740,7 @@ disturbed. Several soldier crabs, of course, act as sentinels of the
 tank, and appear to be ever 'on duty,' marching about in all parts
 of their subaqueous habitation; while beneath the marble fragments
 repose, each with his 'weather eye' open, a small _Maia squinado_, two
-long-armed crabs, and a small _Carcinus mÃ¦nas_. On the sides of the
+long-armed crabs, and a small _Carcinus mænas_. On the sides of the
 vase rest a Limpet, a Trochus, and two fine Periwinkles, with skin
 of glossy blackness. The shells of either 'Buckie' is covered with
 myriads of quicksilver globules, that rest on the tips of the young
@@ -7721,7 +7755,7 @@ made to become members of the marine 'houseless poor.' Several young
 specimens of these bivalves are seated, in a piece of rock, and daily
 engaged in 'boring.' A stick of wood, formerly the slender twig of
 a tree, is thickly clustered with fairy-handed acorn barnacles and
-serpulÃ¦, and being placed against the glass, the movements of these
+serpulæ, and being placed against the glass, the movements of these
 singularly beautiful creatures can be watched with ease. Then there are
 two Star-fishes, a pack of three little Blennies, and a Five-bearded
 Rockling, whose singular movements I have previously alluded to.
@@ -7775,7 +7809,7 @@ into a stand of wood supported on three legs.
 The plan alluded to, which was suggested to the writer by an ingenious
 friend,[22] consists of the introduction of a floating centre piece
 composed of gutta percha, which serves as a resting place for various
-small animals, such as ActiniÃ¦, Mussels, Barnacles, SerpulÃ¦, and
+small animals, such as Actiniæ, Mussels, Barnacles, Serpulæ, and
 even Pholades and Cockles. At the base of the vessel, which is quite
 uncovered, rest sundry members of the crustaceous family, whilst
 fishes of various kinds swim freely about over the entire vessel free
@@ -7860,14 +7894,14 @@ vegetation which renders the water opaque and exceedingly unpleasant to
 the eye.
 
 This ugly opacity I at one time attributed to decaying animal matter,
-for I could scarcely believe that the mere increase of the algÃ¦ spores
+for I could scarcely believe that the mere increase of the algæ spores
 could produce such a vile effect. Experience, however, has proved that
 the latter was in reality the true cause. I tried often by syringing
 the water, or drawing it off by means of the siphon, or stirring it
 about in all manner of ways, to remove the objectionable muddiness,
 but always without success. Limpets and Periwinkles seemed quite
 useless. Nor did shutting out the rays of light for a few days have any
-perceptible effect in subduing the growth of the algÃ¦ which collected
+perceptible effect in subduing the growth of the algæ which collected
 with wondrous rapidity, and arrayed each stone, shell, pebble, and even
 the poor crabs, in a greenish garb.
 
@@ -7878,7 +7912,7 @@ still more provoking, was the fact that the rejected fluid seemed
 perfectly free from all offensive smell. I now adopt the following
 novel method for removing the opacity of the water, without the latter
 being changed, and also for preventing the too abundant growth of the
-algÃ¦ at all seasons.
+algæ at all seasons.
 
 The plan in question (which requires, as already shown, to be carried
 out with extreme caution by the inexperienced aquarianist) is merely to
@@ -7906,7 +7940,7 @@ course of a few minutes every sign of 'fur' will be obliterated with
 the loss of but a small portion of water. When once the fluid has been
 clarified in the manner here mentioned, there is little fear of the
 young aquarianist being again troubled in like manner for many months,
-the acid apparently preventing the algÃ¦ from being reproduced to any
+the acid apparently preventing the algæ from being reproduced to any
 such excess as hitherto.
 
 
@@ -7927,7 +7961,7 @@ Sea-urchin, through which the sucking-feet are protruded.
 with soft skins which have the power of stinging like a nettle.
 Commonly called Sea-nettles or Jelly-fish.
 
-=ActinÃ¦= (Gr. _aktin_, a ray). The genus of Polypes which have many
+=Actinæ= (Gr. _aktin_, a ray). The genus of Polypes which have many
 arms radiating from around the mouth.
 
 =Alternate generation.= That modification of generation in which
@@ -7936,7 +7970,7 @@ the successive series of individuals seem to represent two species,
 alternately reproduced, in which also parthenogenesis alternates with
 the ordinary engendering by impregnation.
 
-=AlgÃ¦= (sea-weeds). A large class of cryptogamic plants inhabiting salt
+=Algæ= (sea-weeds). A large class of cryptogamic plants inhabiting salt
 and fresh water.
 
 =Anomoura= (Gr. _anomos_, irregular, and _oura_, a tail). A section
@@ -7965,7 +7999,7 @@ Mussel.
 =Brachyura= (Gr. _brachus_, short; _oura_, tail). The tribe of
 crustacea with short tails, as the Crabs.
 
-=BranchiÃ¦= The gills or respiratory organs which extract the oxygen
+=Branchiæ= The gills or respiratory organs which extract the oxygen
 from air contained in water, as in fishes and other aquatic animals.
 
 =Buccal= (L. _bucca_, mouth). Belonging to the mouth.
@@ -7982,12 +8016,12 @@ feed on flesh.
 
 =Caudal= (L. _cauda_, the tail). Belonging to the tail.
 
-=CephalÃ³poda= (Gr. _kephale_, a head; _pous_, a foot). The class of
+=Cephalópoda= (Gr. _kephale_, a head; _pous_, a foot). The class of
 Molluscous animals in which long prehensile processes, or feet, project
 from the head, as in the Cuttle-fish.
 
 =Ciliogrades= (L. _cilium_, an eyelash; _gradior_, I walk). The order
-of the _acalephÃ¦_ (as the BerÃ¶e) which swims by action of cilia.
+of the _acalephæ_ (as the Beröe) which swims by action of cilia.
 
 =Cilia= (L. _cilium_, an eyelash). The microscopic hair-like bodies
 which cause, by their vibratile action, currents in the contiguous
@@ -8041,7 +8075,7 @@ a bivalve shell.
 =Entomology= (Gr. _entoma_, insects; _logos_, a discourse). The branch
 of science treating of insects.
 
-=Exuvium=, Pl. =exuviÃ¦= (L. _exuo_, I cast off). The shell or skin of
+=Exuvium=, Pl. =exuviæ= (L. _exuo_, I cast off). The shell or skin of
 an animal which is shed in moulting.
 
 =Epizoa= (Gr. _epi_, upon; _zoon_, an animal). The class of low
@@ -8081,7 +8115,7 @@ determines the spontaneous fission of cells.
 =Hydra= (Gr. _hudra_, a water serpent). The modern generic name of
 certain fresh water polypes.
 
-=Hydrogen= (Gr. _hydor_, water; _gemmÃ¦_, I produce). A gas forming one
+=Hydrogen= (Gr. _hydor_, water; _gemmæ_, I produce). A gas forming one
 of the components of water and atmospheric air.
 
 
@@ -8089,7 +8123,7 @@ of the components of water and atmospheric air.
 animal infusions.
 
 
-=Lamellibranchiata= (L. _lamella_, a plate; _branchiÃ¦_, gills). The
+=Lamellibranchiata= (L. _lamella_, a plate; _branchiæ_, gills). The
 class of acephalous molluscs, with gills in the form of membraneous
 plates, of which the oyster and mussel are familiar examples.
 
@@ -8106,7 +8140,7 @@ covers the viscera and a great part of the body like a cloak.
 =Macroura= (Gr. _makros_, long; _oura_, a tail). A tribe of ten-footed
 crustacea (as the Lobster, Cray-fish), which have long tails.
 
-=MedusÃ¦.= A genus or family of soft radiated animals or AcalephÃ¦, so
+=Medusæ.= A genus or family of soft radiated animals or Acalephæ, so
 called because their organs of motion and prehension are spread out
 like the snaky hair of the fabled medusa.
 
@@ -8118,11 +8152,11 @@ animal kingdom. It contains most shell-fish, slugs, &c.
 =Monograph= (Gr. _monos_, one; _grapho_, I write). A written
 description of a single thing, or class of things.
 
-=Multivalve= (L. _multus_, many; _valvÃ¦_, folding doors). Shells
+=Multivalve= (L. _multus_, many; _valvæ_, folding doors). Shells
 composed of many pieces or valves, as the Chiton.
 
 
-=Nudibranchiate= (L. _nudus_, naked; _branchiÃ¦_, gills). An order of
+=Nudibranchiate= (L. _nudus_, naked; _branchiæ_, gills). An order of
 gasteropods, in which the gills are exposed, as the Eolis, Doris, &c.
 
 
@@ -8137,11 +8171,11 @@ plate which closes certain univalve shells, as the Whelk, Periwinkle,
 &c.
 
 
-=PapillÃ¦= (L. _papilla_, a nipple). Soft prominences which resemble in
+=Papillæ= (L. _papilla_, a nipple). Soft prominences which resemble in
 form the teats of animals.
 
 =Palpi= (L. _palpo_, I touch). The organs of touch commonly called
-'feelers,' developed from the lablum and maxillÃ¦ of insects.
+'feelers,' developed from the lablum and maxillæ of insects.
 
 =Pectinated= (L. _pecten_, a comb). Toothed like a comb.
 
@@ -8152,7 +8186,7 @@ that swim by means of air-bladders.
 animals.
 
 =Pulmonigrade= (L. _pulmo_, a lung; _gradior_, I walk). The tribe of
-MedusÃ¦ which swim by contraction of the respiratory disc.
+Medusæ which swim by contraction of the respiratory disc.
 
 
 =Rotifera= (L. _rota_, a wheel; _fero_, I bear). The name of a class of
@@ -8168,7 +8202,7 @@ rotating ciliary organs upon the heads.
 
 =Silicious= (L. _silex_, a flint). Flinty.
 
-=SetÃ¦.= Bristles, or similar parts.
+=Setæ.= Bristles, or similar parts.
 
 =Spicula= (L. _spiculum_, a point or dart). Fine-pointed bodies, like
 needles.
@@ -8180,7 +8214,7 @@ needles.
 the Oyster, Whelk, &c.
 
 
-=Univalve= (L. _unus_, one; _valvÃ¦_, doors). A shell composed of one
+=Univalve= (L. _unus_, one; _valvæ_, doors). A shell composed of one
 calcareous piece, as the Periwinkle.
 
 =Umbones.= The base of a shell about the hinge.
@@ -8209,9 +8243,9 @@ that are fixed to the ground and have the form of plants.
 INDEX.
 
 
-  _AnimalculÃ¦_, 37.
+  _Animalculæ_, 37.
 
-  _ActiniÃ¦_ (Sea anemones), 38, 47.
+  _Actiniæ_ (Sea anemones), 38, 47.
     _mesembryanthemum_, 48, 365.
     _troglodytes_, 51, 62.
     _bellis_, 56.
@@ -8227,21 +8261,21 @@ INDEX.
 
   Annelids, 154, 191, 315.
 
-  _AcalephÃ¦_, 203.
+  _Acalephæ_, 203.
 
   Alternation of generations, 214.
 
   _Aphrodite aculeata_, 267.
 
-  _AplysiÃ¦_, 54, 309, 311.
+  _Aplysiæ_, 54, 309, 311.
 
-  _AquariÃ¦_ (on the formation of marine), 357.
+  _Aquariæ_ (on the formation of marine), 357.
 
   _Anomoura_ (Hermit crabs), 69, 92, 130, 133.
 
-  _AsteriadÃ¦_, 271.
+  _Asteriadæ_, 271.
 
-  AlgÃ¦, 97.
+  Algæ, 97.
 
   _A. ventilabrum_, 161.
 
@@ -8252,9 +8286,9 @@ INDEX.
 
   Byssus of Mussel, 168, 170, 177, 184.
 
-  _BerÃ¶e_, 210.
+  _Beröe_, 210.
 
-  _BÃªches de mer_, 31.
+  _Bêches de mer_, 31.
 
   Brittle Star-fishes, 277.
 
@@ -8289,7 +8323,7 @@ INDEX.
 
   _Cancer Pagurus_ (Edible crab), 67, 69, 128.
 
-  _Carcinus mÃ¦nas_ (Common Shore crab), 67, 78, 120, 127, 167, 239.
+  _Carcinus mænas_ (Common Shore crab), 67, 78, 120, 127, 167, 239.
 
   Common Whelk, 94.
 
@@ -8325,7 +8359,7 @@ INDEX.
 
   _C. offinalis_, 285.
 
-  _Ciliograde acalephÃ¦_, 209.
+  _Ciliograde acalephæ_, 209.
 
   Common Sea cucumber, 305.
 
@@ -8358,7 +8392,7 @@ INDEX.
     _papillosa_, 228.
 
   _Echinus_, 291.
-    _sphÃ¦ra_, 297.
+    _sphæra_, 297.
 
   Entomology, 28.
 
@@ -8401,7 +8435,7 @@ INDEX.
 
   Hyaline stylet, 239.
 
-  _HolothuriadÃ¦_, 303.
+  _Holothuriadæ_, 303.
 
 
   _Infusoria_, 33, 43, 227.
@@ -8446,13 +8480,13 @@ INDEX.
 
   Mussel (_Mytilus edulis_), 82, 122, 167, 363.
 
-  _MedusÃ¦_, 203, 210, 216.
+  _Medusæ_, 203, 210, 216.
 
   _Modera formosa_, 217.
 
   Montague Sucker-fish, 349.
 
-  Marine AquariÃ¦, 357.
+  Marine Aquariæ, 357.
 
   _Macroura_ (as Lobsters), &c.
 
@@ -8464,7 +8498,7 @@ INDEX.
 
   _Ostrea edulis_ (oyster), 81.
 
-  _OphiurÃ¦_, 277.
+  _Ophiuræ_, 277.
      _texturata_, 277.
      _albida_, 277.
 
@@ -8483,7 +8517,7 @@ INDEX.
 
   Pecten, 108, 370.
 
-  Prawn, Common (_PalÃ¦mon squilla_), 137.
+  Prawn, Common (_Palæmon squilla_), 137.
 
   _Phyllodoce laminosa_, 155.
 
@@ -8495,7 +8529,7 @@ INDEX.
 
   Pholas (_dactylus_), 260.
 
-  _Pentacrinus EuropÃ¦us_, 275.
+  _Pentacrinus Europæus_, 275.
 
   _Psolus phantapus_, 304.
 
@@ -8507,9 +8541,9 @@ INDEX.
 
   Partane, The (Edible crab), 65, 124.
 
-  _Pulmonigrade acalephÃ¦_, 21l.
+  _Pulmonigrade acalephæ_, 21l.
 
-  _Physograde acalephÃ¦_, 211.
+  _Physograde acalephæ_, 211.
 
   _Parthenogenesis_, 218.
 
@@ -8545,9 +8579,9 @@ INDEX.
 
   Sea Hares, 309.
 
-  _SerpulÃ¦_, 315.
+  _Serpulæ_, 315.
 
-  _SabellÃ¦_,315, 319.
+  _Sabellæ_,315, 319.
 
   _Solen siliqua_, Razor-fish, 324.
 
@@ -8555,7 +8589,7 @@ INDEX.
 
   Shrimps, 137.
 
-  _SaxicavÃ¦_, 248.
+  _Saxicavæ_, 248.
 
   Sucker fishes, 348.
 
@@ -8593,7 +8627,7 @@ INDEX.
   Urchins (Sea), 298.
 
 
-  _VorticellÃ¦_, 35, 38.
+  _Vorticellæ_, 35, 38.
 
   Velvet Fiddler crab, 66, 74.
 
@@ -8771,7 +8805,7 @@ natural history--as the readers of his adventures may also do if they
 please--and witnesses some remarkably curious scenes, which, if not
 warranted by reference to Humboldt, are at least described in minute
 detail by Mr. Ballantyne, who is always cheerful, entertaining, and
-instructive."--_AthenÃ¦um._
+instructive."--_Athenæum._
 
 
 THE BEST FAMILY MAGAZINE OF SUNDAY READING.
@@ -8848,4 +8882,365 @@ original spelling, punctuation and hyphenation have been left intact.
 
 End of the Project Gutenberg EBook of Glimpses of Ocean Life, by John Harper
 
-*** END OF THE PROJECT GUTENBERG EBOOK 52666 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK GLIMPSES OF OCEAN LIFE ***
+
+***** This file should be named 52666-8.txt or 52666-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/2/6/6/52666/
+
+Produced by Chris Whitehead, K.D. Thornton and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
